@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img height="240" src="https://i.ibb.co.com/39Vgct7w/git-Hub-banner.png"  />
+  <img src="https://i.ibb.co.com/39Vgct7w/git-Hub-banner.png" alt="GitHub Banner" style="max-width: 100%; height: auto;" />
 </div>
+
 
 ###
 
