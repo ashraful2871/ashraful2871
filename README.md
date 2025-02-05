@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Frontend Web Developer</h1>
+<h1 align="center">Full-Stack Developer (MERN Stack)</h1>
 
 ###
 
