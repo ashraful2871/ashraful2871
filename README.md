@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Hi, I'm Ashraful Islam I am a frontend Web Developer, and I have progressively learned web technologies like HTML, CSS, JavaScript, React, and MongoDB. I am continuously learning and exploring many new technologies. I am a student and an enthusiastic web developer dedicated to mastering the art of creating innovative web solutions. Beyond acquiring knowledge of technologies like HTML, CSS, JavaScript, React, and MongoDB, I have gained practical experience in applying these skills to real-world projects. My curiosity drives me to continually learn new tools and techniques, ensuring I stay ahead in this dynamic field. I strive to build user-focused applications and enjoy tackling challenges with creative problem-solving approaches</p>
+<p align="left">Hi, I'm Ashraful Islam I am a Full-Stack Developer (MERN Stack), and I have progressively learned web technologies like HTML, CSS, JavaScript, React, and MongoDB. I am continuously learning and exploring many new technologies. I am a student and an enthusiastic web developer dedicated to mastering the art of creating innovative web solutions. Beyond acquiring knowledge of technologies like HTML, CSS, JavaScript, React, and MongoDB, I have gained practical experience in applying these skills to real-world projects. My curiosity drives me to continually learn new tools and techniques, ensuring I stay ahead in this dynamic field. I strive to build user-focused applications and enjoy tackling challenges with creative problem-solving approaches</p>
 
 ###
 
