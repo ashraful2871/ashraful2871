@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Full-Stack Developer (MERN)</h1>
+<h1 align="center">Full-Stack Developer</h1>
 
 ###
 
